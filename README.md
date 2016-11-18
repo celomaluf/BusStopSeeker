@@ -1,4 +1,5 @@
-BusStopSeeker
-=============
+INSTALAÇÃO:
 
-arc_touch_exercise
+Pode ser utilizado o Tomcat como container.
+
+
