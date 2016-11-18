@@ -1,5 +1,5 @@
-INSTALAÇÃO:
+INSTALLATION
 
-Pode ser utilizado o Tomcat como container.
+Tomcat may be used as a cointainer.
 
 
